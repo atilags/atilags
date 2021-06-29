@@ -10,6 +10,10 @@ Também acho divertido o desenvolver do codigo 🤓
 
 Criei esse GitHub para poder "estocar" minhas aulas e pequenos projetos que faço para testar conhecimento/treinar.
 
+- Lógica de Programação ✅
+- Java 🔨
+- JavaScript ⏹️
+
 Quer entrar em contato comigo?
 
 if(resposta.equals("sim"){

@@ -12,8 +12,9 @@ Criei esse GitHub para poder "estocar" minhas aulas e pequenos projetos que faç
 Quer entrar em contato comigo?
 
 if(resposta.equals("sim"){
-- Meu e-mail para contato é: ✉️ [e-mail](atilasobrinho@gmail.com)
-- Meu linkedin é: [site](https://www.linkedin.com/in/atilasobrinho/)
+- Meu e-mail para contato é: ✉️ [E-mail](atilasobrinho@gmail.com)
+- Meu linkedin é: [Linkedin](https://www.linkedin.com/in/atilasobrinho/)
+
 }else {
 - Espero que encontre o que busca em breve, cuide-se ! 👍
 }

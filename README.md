@@ -4,6 +4,7 @@ Meu nome é Átila, sou de Niterói/RJ, amante de programação 💻, jogos 🎮
 
 Atualmente estudo Sistemas de Informação, tendo como foco o desenvolvimento Java, que estou aprendendo pela Udemy.
 Pretendo futuramente aprender sobre JavaScript também, é claro.
+Já possuo certo conhecimento em java, Spring Boot, MySQL, HTML5 e CSS3.
 
 Da "dor de cabeça", mas é muito satisfatorio ver um codigo seu feito e funcionando corretamente depois de bater muito a cabeça, haha
 Também acho divertido o desenvolver do codigo 🤓
